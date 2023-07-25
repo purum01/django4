@@ -10,7 +10,7 @@
   
 ## 장고 Model
 [장고 DB ENGINE](https://github.com/django/django/tree/main/django/db/backends)  
-[SQLite Browser 다운로드](https://sqlitebrowser.org/dl/)
+[SQLite Browser 다운로드](https://sqlitebrowser.org/dl/)  
 [모델 필드](https://docs.djangoproject.com/ko/4.2/ref/models/fields/#model-field-types)
 
 
