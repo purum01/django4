@@ -11,7 +11,9 @@
 ## 장고 Model
 [장고 DB ENGINE](https://github.com/django/django/tree/main/django/db/backends)  
 [SQLite Browser 다운로드](https://sqlitebrowser.org/dl/)       
-[Model field reference](https://docs.djangoproject.com/ko/4.2/ref/models/fields/#model-field-types)   
+[Model field reference](https://docs.djangoproject.com/ko/4.2/ref/models/fields/#model-field-types)    
+[QuerySet API reference](https://docs.djangoproject.com/en/4.2/ref/models/querysets/)  
+
 
 
 
