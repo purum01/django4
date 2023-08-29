@@ -17,6 +17,7 @@
 
 ## 장고 Form
 [HttpRequest](https://docs.djangoproject.com/en/4.2/ref/request-response/#httprequest-objects)
+[HttpResponse](https://docs.djangoproject.com/en/4.2/ref/request-response/#httpresponse-objects)
 
 
 
