@@ -35,3 +35,11 @@
 * [ListView](https://github.com/django/django/blob/4.2/django/views/generic/list.py)
 * [DetailView](https://github.com/django/django/blob/4.2/django/views/generic/detail.py)
 * [Generic Editing Views](https://github.com/django/django/blob/4.2/django/views/generic/edit.py)
+
+## 장고 File
+* [Managing static files](https://docs.djangoproject.com/en/4.2/howto/static-files/)
+* [Deploying static files](https://docs.djangoproject.com/en/4.2/howto/static-files/deployment/)
+* [개발서버에서 media 파일 서빙](https://github.com/django/django/blob/master/django/conf/urls/static.py)
+* [Pillow](https://pillow.readthedocs.io/en/5.2.x/)
+* [strftime 포맷팅](https://docs.python.org/3/library/time.html#time.strftime)
+
