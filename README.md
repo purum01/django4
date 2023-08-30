@@ -42,3 +42,8 @@
 * [개발서버에서 media 파일 서빙](https://github.com/django/django/blob/master/django/conf/urls/static.py)
 * [strftime 포맷팅](https://docs.python.org/3/library/time.html#time.strftime)
 
+
+## 장고 admin app
+* [The Django admin site](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/)
+* [ModelAdmin 소스](https://docs.djangoproject.com/en/4.2/_modules/django/contrib/admin/options/#ModelAdmin)
+* [ModelAdmin options](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/#modeladmin-options)
