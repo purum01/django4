@@ -45,4 +45,5 @@
 
 ## 장고 admin app
 * [The Django admin site](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/)
+* [ModelAdmin 소스코드](https://github.com/django/django/blob/main/django/contrib/admin/options.py)
 * [ModelAdmin options](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/#modeladmin-options)
