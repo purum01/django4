@@ -47,3 +47,16 @@
 * [The Django admin site](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/)
 * [ModelAdmin 소스코드](https://github.com/django/django/blob/main/django/contrib/admin/options.py)
 * [ModelAdmin options](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/#modeladmin-options)
+
+## 장고 auth app
+* [auth 앱 코드](https://github.com/django/django/tree/main/django/contrib/auth)
+* [auth 환경변수](https://github.com/django/django/blob/main/django/conf/global_settings.py#L524)
+* [auth context_processors](django.contrib.auth.context_processors.auth)
+* [auth urls.py](https://github.com/django/django/blob/main/django/contrib/auth/urls.py)
+* [UserCreationForm](https://github.com/django/django/blob/main/django/contrib/auth/forms.py#L149)
+
+)
+
+
+
+
