@@ -55,7 +55,11 @@
 * [auth urls.py](https://github.com/django/django/blob/main/django/contrib/auth/urls.py)
 * [UserCreationForm](https://github.com/django/django/blob/main/django/contrib/auth/forms.py#L149)
 
-)
+## 장고 Email
+* [장고 email](https://docs.djangoproject.com/en/4.2/topics/email/)
+* [email 서버 설정](https://github.com/django/django/blob/main/django/conf/global_settings.py#L191)
+
+
 
 
 
