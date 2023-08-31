@@ -60,9 +60,9 @@
 * [email 서버 설정](https://github.com/django/django/blob/main/django/conf/global_settings.py#L191)
 
 ## 장고 Signals
-*[장고 signals](https://docs.djangoproject.com/en/4.2/ref/signals/)
-*[Signal 클래스](https://github.com/django/django/blob/main/django/dispatch/dispatcher.py#L25)
-*[post_save](https://docs.djangoproject.com/en/4.2/ref/signals/#post-save)
+* [장고 signals](https://docs.djangoproject.com/en/4.2/ref/signals/)
+* [Signal 클래스](https://github.com/django/django/blob/main/django/dispatch/dispatcher.py#L25)
+* [post_save](https://docs.djangoproject.com/en/4.2/ref/signals/#post-save)
 
 
 
