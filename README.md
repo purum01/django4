@@ -64,6 +64,8 @@
 * [Signal 클래스](https://github.com/django/django/blob/main/django/dispatch/dispatcher.py#L25)
 * [post_save](https://docs.djangoproject.com/en/4.2/ref/signals/#post-save)
 
-
+## Django REST framework
+* [공식사이트](https://www.django-rest-framework.org/)
+* [참조사이트](https://www.cdrf.co/)
 
 
