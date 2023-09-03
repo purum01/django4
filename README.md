@@ -14,6 +14,12 @@
 * [Model field reference](https://docs.djangoproject.com/ko/4.2/ref/models/fields/#model-field-types)    
 * [QuerySet API reference](https://docs.djangoproject.com/en/4.2/ref/models/querysets/)  
 
+## 장고 Template
+* [장고 Template] (https://docs.djangoproject.com/en/4.2/ref/templates/api/)
+* [django.shortcuts.py] (https://github.com/django/django/blob/main/django/shortcuts.py)
+* [Built-in template tags and filters](https://docs.djangoproject.com/en/4.2/ref/templates/builtins/)
+* [custom template tags and filters](https://docs.djangoproject.com/en/4.2/howto/custom-template-tags/)
+
 
 ## 장고 Form
 * [HttpRequest](https://docs.djangoproject.com/en/4.2/ref/request-response/#httprequest-objects)   
