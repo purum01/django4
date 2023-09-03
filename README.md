@@ -25,7 +25,7 @@
 ## 장고 Form
 * [HttpRequest](https://docs.djangoproject.com/en/4.2/ref/request-response/#httprequest-objects)   
 * [HttpResponse](https://docs.djangoproject.com/en/4.2/ref/request-response/#httpresponse-objects)
-* [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/4.2/ref/csrf/)
+* [CSRF](https://docs.djangoproject.com/en/4.2/ref/csrf/)
 * [MultiValueDict](https://github.com/django/django/blob/4.2/django/utils/datastructures.py#L43)
 * [QueryDict](https://docs.djangoproject.com/en/4.2/ref/request-response/#querydict-objects)
 * [Form fields](https://docs.djangoproject.com/en/4.2/ref/forms/fields/)
