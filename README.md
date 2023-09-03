@@ -33,7 +33,7 @@
 
 
 ## 장고 View
-* [View](https://github.com/django/django/blob/stable/4.2.x/django/views/generic/base.py)
+* [View](https://docs.djangoproject.com/en/4.2/ref/class-based-views/base/#view)
 * [django.views.generic](https://github.com/django/django/tree/4.2/django/views/generic)
 * [Class-based views](https://ccbv.co.uk/)
 * [Built-in class-based views API](https://docs.djangoproject.com/en/4.2/ref/class-based-views/)
