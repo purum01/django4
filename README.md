@@ -30,9 +30,7 @@
 * [QueryDict](https://docs.djangoproject.com/en/4.2/ref/request-response/#querydict-objects)
 * [Form fields](https://docs.djangoproject.com/en/4.2/ref/forms/fields/)
 * [ModelForm](https://docs.djangoproject.com/en/4.2/topics/forms/modelforms/)
-* [validators](https://docs.djangoproject.com/en/4.2/ref/validators/)
-* [Built-in validators](https://docs.djangoproject.com/en/4.2/ref/validators/#built-in-validators)
-* [Form.add_error(field, error)](https://docs.djangoproject.com/en/4.2/ref/forms/api/#django.forms.Form.add_error)
+
 
 ## 장고 View
 * [Class-based views](https://ccbv.co.uk/)
