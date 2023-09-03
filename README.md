@@ -33,10 +33,10 @@
 
 
 ## 장고 View
-* [Class-based views](https://ccbv.co.uk/)
-* [django.views.generic](https://github.com/django/django/tree/4.2/django/views/generic)
-* [Built-in class-based views API](https://docs.djangoproject.com/en/4.2/ref/class-based-views/)
 * [View](https://github.com/django/django/blob/stable/4.2.x/django/views/generic/base.py)
+* [django.views.generic](https://github.com/django/django/tree/4.2/django/views/generic)
+* [Class-based views](https://ccbv.co.uk/)
+* [Built-in class-based views API](https://docs.djangoproject.com/en/4.2/ref/class-based-views/)
 * [ListView](https://github.com/django/django/blob/4.2/django/views/generic/list.py)
 * [DetailView](https://github.com/django/django/blob/4.2/django/views/generic/detail.py)
 * [Generic Editing Views](https://github.com/django/django/blob/4.2/django/views/generic/edit.py)
