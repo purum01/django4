@@ -35,7 +35,7 @@
 ## 장고 View
 * [View](https://docs.djangoproject.com/en/4.2/ref/class-based-views/base/#view)
 * [django.views.generic](https://github.com/django/django/tree/4.2/django/views/generic)
-* [Class-based views](https://ccbv.co.uk/)
+* [Class-based views(ccbv)](https://ccbv.co.uk/)
 * [Built-in class-based views API](https://docs.djangoproject.com/en/4.2/ref/class-based-views/)
 * [ListView](https://github.com/django/django/blob/4.2/django/views/generic/list.py)
 * [DetailView](https://github.com/django/django/blob/4.2/django/views/generic/detail.py)
@@ -71,6 +71,6 @@
 
 ## Django REST framework
 * [장고 공식사이트](https://www.django-rest-framework.org/)
-* [DRF CBV(Class Based Views)](https://www.cdrf.co/)
+* [DRF CBV((cdrf)](https://www.cdrf.co/)
 
 
